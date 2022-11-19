@@ -1,5 +1,5 @@
 # Welcome message
-echo "Hi from abernier/dotfiles/.bashrc"
+echo "Hi from https://github.com/abernier/dotfiles/.bashrc"
 
 # enable colors
 export CLICOLOR=1
